@@ -16,5 +16,5 @@ can extend the workout duration
 Once the workout is done, it will be shown
 
 # Author
-Aiden Nguyen 
-Claude
+Aiden Nguyen, 
+Claude.ai
