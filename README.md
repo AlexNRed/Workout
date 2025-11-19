@@ -16,7 +16,7 @@ can extend the workout duration
 Once the workout is done, it will be shown
 
 # Diagram
-<img width="481" height="305" alt="image" src="https://github.com/user-attachments/assets/c69ed000-aca0-4518-bda9-ff00056e39b1" />
+<img width="500" height="305" alt="image" src="https://github.com/user-attachments/assets/c69ed000-aca0-4518-bda9-ff00056e39b1" />
 
 # Author
 Aiden Nguyen, 
